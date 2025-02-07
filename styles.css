@@ -16,10 +16,6 @@
     src: url('fonts/avenirltprolight.otf') format("opentype");
 }
 
-html, body, body:hover {
-    cursor: url("img/cursor.png"), default;
-}
-
 /* SCROLLBAR */
 
 [dark-scroll]::-webkit-scrollbar {
