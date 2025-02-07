@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const startDate = new Date('2022-01-01').getTime();
+    const startDate = new Date('2023-01-18').getTime();
     
     const updateTimer = () => {
         const now = new Date().getTime();
