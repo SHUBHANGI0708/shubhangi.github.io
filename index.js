@@ -31,3 +31,10 @@ function outFunc() {
     var tooltip = document.getElementById("myTooltip");
     tooltip.innerHTML = "Copy to clipboard";
 }
+
+function contact() {
+    window.scrollTo({
+        top: document.body.scrollHeight,
+        behavior: 'smooth' // Optional: Add smooth scrolling effect
+      });
+}

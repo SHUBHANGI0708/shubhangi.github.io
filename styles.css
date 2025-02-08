@@ -219,20 +219,10 @@ input:focus {
     outline: none;
 }
 
-.listeners-active,
-.listeners-active * {
-    pointer-events: auto;
-}
-
 .hidden,
 .hidden * {
     pointer-events: none;
     visibility: hidden;
-}
-
-.listeners-active-click,
-.listeners-active-click * {
-    cursor: pointer;
 }
 
 * {
@@ -297,17 +287,7 @@ input:focus {
     text-align: center;
 }
 
-.home-page .from-my-most-pixel-p-dV1ayA {
-    align-self: stretch;
-    background-color: transparent;
-    letter-spacing: 0.00px;
-    line-height: 26px;
-    position: relative;
-    text-align: center;
-}
-
 .home-page .button-components-dpj9li {
-    cursor: pointer;
     gap: 5px;
     height: 152px;
     position: relative;
@@ -427,7 +407,6 @@ input:focus {
 
 .home-page .vector-2uJLtY {
     background-color: transparent;
-    cursor: pointer;
     height: 83px;
     left: 630px;
     pointer-events: auto;
@@ -847,20 +826,10 @@ input:focus {
   outline: none;
 }
 
-.listeners-active,
-.listeners-active * {
-  pointer-events: auto;
-}
-
 .hidden,
 .hidden * {
   pointer-events: none;
   visibility: hidden;
-}
-
-.listeners-active-click,
-.listeners-active-click * {
-  cursor: pointer;
 }
 
 * {
@@ -1580,7 +1549,6 @@ input:focus {
 }
 
 .home-page .work-4YxH12 {
-  cursor: pointer;
   position: relative;
   width: fit-content;
 }
@@ -1877,7 +1845,6 @@ input:focus {
 }
 
 .home-page .button-components-6iAz2g {
-  cursor: pointer;
   gap: 10px;
   height: 70px;
   left: 402px;
@@ -2001,7 +1968,6 @@ input:focus {
 }
 
 .home-page .button-components-leqMHY {
-  cursor: pointer;
   gap: 10px;
   height: 70px;
   left: 403px;
@@ -2156,7 +2122,6 @@ color:var(--illustrationnew);
 .home-page .frame-42-xVxyAW {
   align-items: center;
   background-color: transparent;
-  cursor: pointer;
   display: flex;
   flex-direction: column;
   gap: 55px;
@@ -2191,16 +2156,15 @@ color:var(--illustrationnew);
 }
 
 .home-page .from-my-most-pixel-p-dV1ayA {
-  align-self: stretch;
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: 26px;
   position: relative;
   text-align: center;
+  width: 507px;
 }
 
 .home-page .button-components-dpj9li {
-  cursor: pointer;
   gap: 5px;
   height: 152px;
   position: relative;
@@ -2376,7 +2340,6 @@ color:var(--illustrationnew);
 
 .home-page .vector-2uJLtY {
   background-color: transparent;
-  cursor: pointer;
   height: 83px;
   left: 630px;
   pointer-events: auto;
@@ -2858,20 +2821,10 @@ input:focus {
   outline: none;
 }
 
-.listeners-active,
-.listeners-active * {
-  pointer-events: auto;
-}
-
 .hidden,
 .hidden * {
   pointer-events: none;
   visibility: hidden;
-}
-
-.listeners-active-click,
-.listeners-active-click * {
-  cursor: pointer;
 }
 
 * {
@@ -3244,7 +3197,6 @@ input:focus {
 .work-pageu95user-first-creations .frame-2-DUBwmF {
   align-items: center;
   background-color: transparent;
-  cursor: pointer;
   display: inline-flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -3390,6 +3342,8 @@ input:focus {
     gap: 12px;
     position: relative;
     width: 100%;
+    border-top: 1px solid #343D4E;
+    padding-top: 10px;
   }
 }
   .footer-frame-5 {
@@ -3850,7 +3804,6 @@ input:focus {
   align-items: center;
   background-color: var(--main---lavender);
   border-radius: 160px;
-  cursor: pointer;
   display: flex;
   gap: 10px;
   height: 70px;
